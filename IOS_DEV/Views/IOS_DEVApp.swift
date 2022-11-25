@@ -1,8 +1,8 @@
 //
-//  IOS_DEVApp.swift
-//  IOS_DEV
+//  App.swift
+//  
 //
-//  Created by Jackson on 28/3/2021.
+//  Created by Alfonzo on 28/3/2021.
 //
 
 import Foundation
@@ -20,7 +20,7 @@ import SwiftUI_Pull_To_Refresh
 
 
 @main
-struct IOS_DEVApp: App {
+struct App: App {
     @UIApplicationDelegateAdaptor(Appdelegate.self) var delegate
    
     var body: some Scene {
@@ -1224,9 +1224,9 @@ struct DetechCameraView : UIViewRepresentable{
 //
 ////
 ////  AutoScroll.swift
-////  IOS_DEV
+////  
 ////
-////  Created by 張馨予 on 2021/5/18.
+////  Created by Alfonzo on 2021/5/18.
 ////
 //
 //import SwiftUI

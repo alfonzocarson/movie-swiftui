@@ -1,8 +1,8 @@
 //
 //  CreateMovieList.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 30/7/2022.
+//  Created by Alfonzo on 30/7/2022.
 //
 
 import SwiftUI

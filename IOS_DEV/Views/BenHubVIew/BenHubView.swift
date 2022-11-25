@@ -1,8 +1,8 @@
 //
 //  BenHubView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 3/9/2022.
+//  Created by Alfonzo on 3/9/2022.
 //
 
 import SwiftUI

@@ -1,8 +1,8 @@
 //
 //  OtherUserProfile.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 7/8/2022.
+//  Created by Alfonzo on 7/8/2022.
 //
 
 import SwiftUI

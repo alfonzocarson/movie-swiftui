@@ -1,8 +1,8 @@
 //
 //  UserManager.swift
-//  IOS_DEV
+//  
 //
-//  Created by JacksonTmm on 27/11/2021.
+//  Created by AlfonzoTmm on 27/11/2021.
 //
 
 import SwiftUI

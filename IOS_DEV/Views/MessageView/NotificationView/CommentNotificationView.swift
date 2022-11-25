@@ -1,8 +1,8 @@
 //
 //  CommentNotificationView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 1/9/2022.
+//  Created by Alfonzo on 1/9/2022.
 //
 
 import SwiftUI

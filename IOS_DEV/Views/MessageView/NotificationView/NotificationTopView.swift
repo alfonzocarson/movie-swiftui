@@ -1,8 +1,8 @@
 //
 //  NotificationTopView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 31/8/2022.
+//  Created by Alfonzo on 31/8/2022.
 //
 
 import SwiftUI

@@ -1,8 +1,8 @@
 //
 //  MainSearchingView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 15/5/2021.
+//  Created by Alfonzo on 15/5/2021.
 //
 
 import SwiftUI
@@ -79,7 +79,7 @@ struct YourView: View {
     // Search string to use in the search bar
     @State var searchString = ""
     @State var isHidden = false
-    let dataArray = ["Jackson","Tome","dummy"]
+    let dataArray = ["Alfonzo","Tome","dummy"]
     
     // Search action. Called when search key pressed on keyboard
     func search() {

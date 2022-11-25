@@ -1,8 +1,8 @@
 //
 //  MovieInfoView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 1/5/2021.
+//  Created by Alfonzo on 1/5/2021.
 //
 
 import SwiftUI
@@ -129,4 +129,4 @@ struct MovieInfoView_Previews: PreviewProvider {
 //    let company:String
 //}
 //
-//let tempData = temp(releaseDate: "12-12-2020", movieTime: "162mins", movieLanguage: "English", cast: ["Jackson","Tome","Jack","Amy"], director: ["test1","test2","test3"], restrictedLevel:"16+" , region: "US", company: "Marval")
+//let tempData = temp(releaseDate: "12-12-2020", movieTime: "162mins", movieLanguage: "English", cast: ["Alfonzo","Tome","Jack","Amy"], director: ["test1","test2","test3"], restrictedLevel:"16+" , region: "US", company: "Marval")

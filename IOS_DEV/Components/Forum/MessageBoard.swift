@@ -1,8 +1,8 @@
 //
 //  Message_Board.swift
-//  IOS_DEV
+//  
 //
-//  Created by 張馨予 on 2021/5/1.
+//  Created by Alfonzo on 2021/5/1.
 //
 
 import SwiftUI

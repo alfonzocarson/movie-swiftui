@@ -1,8 +1,8 @@
 //
 //  SmallBorderOnlyButton.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 29/4/2021.
+//  Created by Alfonzo on 29/4/2021.
 //
 
 import SwiftUI

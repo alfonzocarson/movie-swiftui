@@ -1,8 +1,8 @@
 //
 //  CircleButton.swift
-//  new
+//  
 //
-//  Created by Jackson on 25/2/2021.
+//  Created by Alfonzo on 25/2/2021.
 //
 
 import SwiftUI

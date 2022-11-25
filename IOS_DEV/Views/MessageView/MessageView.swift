@@ -1,8 +1,8 @@
 //
 //  MessageView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 28/1/2022.
+//  Created by Alfonzo on 28/1/2022.
 //
 
 import SwiftUI

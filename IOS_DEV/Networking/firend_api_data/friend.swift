@@ -1,8 +1,8 @@
 //
 //  friend.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 15/8/2022.
+//  Created by Alfonzo on 15/8/2022.
 //
 
 import Foundation

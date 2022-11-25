@@ -1,8 +1,8 @@
 //
-//  NewListCard.swift
-//  IOS_DEV
+//  ListCard.swift
+//  
 //
-//  Created by Kao Li Chi on 2021/9/7.
+//  Created by Alfonzo on 2021/9/7.
 //
 
 import Foundation

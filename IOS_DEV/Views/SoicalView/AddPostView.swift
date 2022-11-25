@@ -1,8 +1,8 @@
 //
 //  AddPostView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 12/7/2022.
+//  Created by Alfonzo on 12/7/2022.
 //
 
 import SwiftUI

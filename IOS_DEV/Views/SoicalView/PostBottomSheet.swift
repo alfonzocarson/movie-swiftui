@@ -1,8 +1,8 @@
 //
 //  PostBottomSheet.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 15/7/2022.
+//  Created by Alfonzo on 15/7/2022.
 //
 
 import SwiftUI

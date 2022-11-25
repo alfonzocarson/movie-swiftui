@@ -1,8 +1,8 @@
 //
 //  personProfile.swift
-//  IOS_DEV
+//  
 //
-//  Created by JacksonTmm on 13/1/2022.
+//  Created by AlfonzoTmm on 13/1/2022.
 //
 
 import SwiftUI

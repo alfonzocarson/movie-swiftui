@@ -1,8 +1,8 @@
 //
 //  Square.swift
-//  new
+//  
 //
-//  Created by 張馨予 on 2021/3/21.
+//  Created by Alfonzo on 2021/3/21.
 //
 
 import SwiftUI

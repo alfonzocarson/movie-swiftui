@@ -2,7 +2,7 @@
 //  Login.swift
 //  Ｐｒｏｊｅｃｔ
 //
-//  Created by 張馨予 on 2021/1/28.
+//  Created by Alfonzo on 2021/1/28.
 //
 
 import SwiftUI

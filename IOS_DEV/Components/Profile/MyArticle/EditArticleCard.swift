@@ -1,8 +1,8 @@
 //
 //  EditArticleCard.swift
-//  IOS_DEV
+//  
 //
-//  Created by Kao Li Chi on 2021/9/25.
+//  Created by Alfonzo on 2021/9/25.
 //
 
 import Foundation

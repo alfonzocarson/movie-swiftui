@@ -1,4 +1,4 @@
-${PODS_ROOT}/Target Support Files/Pods-IOS_DEV/Pods-IOS_DEV-frameworks.sh
+${PODS_ROOT}/Target Support Files/Pods-/Pods--frameworks.sh
 ${BUILT_PRODUCTS_DIR}/AppAuth/AppAuth.framework
 ${BUILT_PRODUCTS_DIR}/DynamicOverlay/DynamicOverlay.framework
 ${BUILT_PRODUCTS_DIR}/FirebaseAuth/FirebaseAuth.framework

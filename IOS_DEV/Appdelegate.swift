@@ -1,8 +1,8 @@
 //
 //  Appdelegate.swift
-//  new
+//  
 //
-//  Created by Jackson on 28/3/2021.
+//  Created by Alfonzo on 28/3/2021.
 //
 
 import UIKit

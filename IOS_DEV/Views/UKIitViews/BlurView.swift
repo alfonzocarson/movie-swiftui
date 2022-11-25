@@ -1,8 +1,8 @@
 //
 //  BlurView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 5/8/2021.
+//  Created by Alfonzo on 5/8/2021.
 //
 
 import SwiftUI

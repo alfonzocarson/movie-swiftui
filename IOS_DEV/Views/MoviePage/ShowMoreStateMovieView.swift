@@ -1,8 +1,8 @@
 //
 //  ShowMoreStateMovie.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 3/8/2022.
+//  Created by Alfonzo on 3/8/2022.
 //
 
 import SwiftUI

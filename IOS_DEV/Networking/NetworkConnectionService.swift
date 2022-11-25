@@ -1,8 +1,8 @@
 //
 //  NetworkConnectionService.swift
-//  IOS_DEV
+//  
 //
-//  Created by JacksonTmm on 30/11/2021.
+//  Created by AlfonzoTmm on 30/11/2021.
 //
 
 import SwiftUI

@@ -1,8 +1,8 @@
 //
 //  CameraImagePickerView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 25/7/2021.
+//  Created by Alfonzo on 25/7/2021.
 //
 
 import SwiftUI

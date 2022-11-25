@@ -1,8 +1,8 @@
 //
 //  PostDetailView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 10/7/2022.
+//  Created by Alfonzo on 10/7/2022.
 //
 
 import SwiftUI

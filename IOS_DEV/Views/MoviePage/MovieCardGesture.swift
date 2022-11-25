@@ -1,8 +1,8 @@
 //
 //  MovieCardGesture.swift
-//  IOS_DEV
+//  
 //
-//  Created by Kao Li Chi on 2021/7/10.
+//  Created by Alfonzo on 2021/7/10.
 //
 
 import Foundation

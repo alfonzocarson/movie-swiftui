@@ -1,8 +1,8 @@
 //
 //  LoadingView.swift
-//  IOS_DEV
+//  
 //
-//  Created by Kao Li Chi on 2021/5/2.
+//  Created by Alfonzo on 2021/5/2.
 //
 
 import SwiftUI

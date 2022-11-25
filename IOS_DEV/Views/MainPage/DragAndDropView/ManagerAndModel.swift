@@ -1,8 +1,8 @@
 //
 //  ManagerAndModel.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 6/11/2021.
+//  Created by Alfonzo on 6/11/2021.
 //
 
 import Foundation

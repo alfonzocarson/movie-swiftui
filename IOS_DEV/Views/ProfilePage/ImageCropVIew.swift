@@ -1,8 +1,8 @@
 //
 //  ImageCropVIew.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 25/1/2022.
+//  Created by Alfonzo on 25/1/2022.
 //
 
 import SwiftUI

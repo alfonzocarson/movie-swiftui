@@ -1,8 +1,8 @@
 //
 //  SwiftUIView.swift
-//  new
+//  
 //
-//  Created by 張馨予 on 2021/1/28.
+//  Created by Alfonzo on 2021/1/28.
 //
 
 import SwiftUI
@@ -29,7 +29,7 @@ let screen = UIScreen.main.bounds //取得螢幕尺寸
 //)
 //let sectionData2 = Section(
 //    title: "易烊千璽",
-//    text: "Jackson的好朋友",
+//    text: "Alfonzo的好朋友",
 //    logo: "璽",
 //    image: Image("ja"),
 //    color: Color(#colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1))

@@ -1,13 +1,13 @@
 //
 //  ListMovie.swift
-//  IOS_DEV
+//  
 //
-//  Created by Kao Li Chi on 2021/9/19.
+//  Created by Alfonzo on 2021/9/19.
 //
 
 import Foundation
 
-//--------------------------------新增電影評價（POST)----------------------------------------//
+//--------------------------------（POST)----------------------------------------//
 struct NewListMovie: Encodable{
     var listTitle : String
     var UserName : String
@@ -19,9 +19,9 @@ struct NewListMovie: Encodable{
 
 }
 
-//--------------------------------編輯電影評價（PUT)----------------------------------------//
+//--------------------------------（PUT)----------------------------------------//
 
-struct UpdateListMovie: Encodable{       //取片單
+struct UpdateListMovie: Encodable{      
     var ListDetailID : UUID
     var feeling : String
     var ratetext : Int

@@ -1,8 +1,8 @@
 //
 //  HomePage.swift
-//  IOS_DEV
+//  
 //
-//  Created by Jackson on 29/3/2021.
+//  Created by Alfonzo on 29/3/2021.
 //
 //120.126.17.213:33865
 import SwiftUI

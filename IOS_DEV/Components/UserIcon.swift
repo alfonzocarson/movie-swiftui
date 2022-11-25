@@ -1,8 +1,8 @@
 //
 //  UserIcon.swift
-//  new
+//  
 //
-//  Created by Jackson on 26/2/2021.
+//  Created by Alfonzo on 26/2/2021.
 //
 
 import SwiftUI

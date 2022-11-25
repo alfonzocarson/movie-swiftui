@@ -1,8 +1,8 @@
 //
-//  NewChatView.swift
-//  IOS_DEV
+//  ChatView.swift
+//  
 //
-//  Created by Jackson on 25/10/2022.
+//  Created by Alfonzo on 25/10/2022.
 //
 
 import SwiftUI

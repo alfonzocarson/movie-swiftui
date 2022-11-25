@@ -1,8 +1,8 @@
 //
-//  NewArticleCard.swift
-//  IOS_DEV
+//  ArticleCard.swift
+//  
 //
-//  Created by Kao Li Chi on 2021/9/28.
+//  Created by Alfonzo on 2021/9/28.
 //
 
 
